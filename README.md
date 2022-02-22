@@ -1,9 +1,12 @@
-Hi I'm Jay Delicana.
+Hi I'm Jay K Delicana.
 
-I'm an engineer at heart. I love building stuff from legos to arduinos and software
+I'm a Fullstack software developer / engineer passionate in building software applications that solve business needs.
+I am skilled in Software design and architecture as well as UI/UX design.
 
-My hobbies are playing Role-playing games. Puzzle games. Interested in board games.
-I love to travel and see the world.
+I'm a quick learner and team worker.
+
+I love technology that makes things easier for us. I like automation. 
+My hobbies are computer games and board games.
 
 
 <!---
